@@ -1,2 +1,9 @@
 # expressjs-es6-boilerplate
-ExpressJS - ES6 boilerplate
+
+```
+# Install
+npm install
+
+# Run
+npm run dev
+```
